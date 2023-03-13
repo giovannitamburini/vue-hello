@@ -9,9 +9,13 @@ Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 const { createApp } = Vue
 
 createApp({
+
   data() {
+
     return {
-      messageTitle: 'questo è il titolo da mostrare',
+
+        //   messageTitle: 'questo è il titolo da mostrare'
+        messageTitle: '',
     }
   }
 }).mount('#app')
