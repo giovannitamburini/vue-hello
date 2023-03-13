@@ -11,7 +11,7 @@ const { createApp } = Vue
 createApp({
   data() {
     return {
-      
+      messageTitle: 'questo è il titolo da mostrare',
     }
   }
 }).mount('#app')
