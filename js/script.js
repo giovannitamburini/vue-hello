@@ -16,6 +16,7 @@ createApp({
 
         //   messageTitle: 'questo è il titolo da mostrare'
         messageTitle: '',
+        imageUrl: 'https://i.pinimg.com/736x/c2/86/2e/c2862e9a2757aabd959d181224ce9339.jpg',
     }
   }
 }).mount('#app')
